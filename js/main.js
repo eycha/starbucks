@@ -73,7 +73,7 @@ new Swiper('.promotion .swiper-container', {
     },
     navigation: {
         prevEl: '.promotion .swiper-prev',
-        nextEl: 'promotion .swiper-next'
+        nextEl: '.promotion .swiper-next'
     }
 });
 
